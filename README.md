@@ -1,4 +1,4 @@
-# PickleBall Court Booking System
+# Court Booking System
 
 A modern web application for managing pickleball court bookings, built with React, Node.js, and PostgreSQL.
 
